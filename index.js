@@ -61,8 +61,8 @@ inquirer
   + "  - Open a Pull Request" + `\r\n`, 
   (err) => err ? console.log(err) : console.log("Success"));
   fs.appendFileSync("READme.md", "## Questions" + `\r\n`, (err) => err ? console.log(err) : console.log("Success"));
-  const appEmail = `${response.email}\r\n`;
-  const appGithub = `${response.github}\r\n`;
+  const appEmail = "- " + `${response.email}\r\n`;
+  const appGithub = "- " + `${response.github}\r\n`;
   fs.appendFileSync("READme.md", appEmail, (err) => err ? console.log(err) : console.log("Success"));
   fs.appendFileSync("READme.md", appGithub, (err) => err ? console.log(err) : console.log("Success"));
   fs.appendFileSync("READme.md", "## License" + `\r\n`, (err) => err ? console.log(err) : console.log("Success"));

@@ -2,7 +2,7 @@
 ## Description
 - This app will help users quickly and easily write a readme file using command line.
 ## Installation
-- npm install for inquirer
+- npm install for inquirer.
 ## Usage
 - This application can be used to quickly build the readme file's framework. This file can be editted or added to in the future.
 ## Contributing
@@ -13,7 +13,7 @@
   - Push to the Branch (git push origin feature/AmazingFeature)
   - Open a Pull Request
 ## Questions
-hello@gmail.com
-google.com
+- hello@gmail.com
+- www.google.com
 ## License
 - MIT
