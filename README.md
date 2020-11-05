@@ -1,22 +1,19 @@
-# readme-generator
-MIT License
-
-Copyright (c) 2020 Dempsey496
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+# Readme Generator
+## Description
+- This app will help users quickly and easily write a readme file using command line.
+## Installation
+- npm install for inquirer
+## Usage
+- This application can be used to quickly build the readme file's framework. This file can be editted or added to in the future.
+## Contributing
+- Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+  - Fork the Project
+  - Create your Feature Branch (git checkout -b feature/AmazingFeature)
+  - Commit your Changes (git commit -m 'Add some AmazingFeature')
+  - Push to the Branch (git push origin feature/AmazingFeature)
+  - Open a Pull Request
+## Questions
+hello@gmail.com
+google.com
+## License
+- MIT
